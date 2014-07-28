@@ -45,7 +45,6 @@ Notes
 * With great power, comes great responsibly
 * Wrapper around the undocument Rapportive API.
 * Valid results may be hidden due to API's limitations
-* The script will print other emails, even the ones you're not looking for.
-* Send Bitcoin `18fZ6muNmBrtENMZhnAjUw8eEsytmY8mZJ`
+* The script will print only the first email that matches for a particular name.
 
 
